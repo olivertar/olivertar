@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>csp on olivert</title>
-    <link>https://olivertar.github.io/tags/csp/</link>
+    <link>https://olivert.com.ar/tags/csp/</link>
     <description>Recent content in csp on olivert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
     <lastBuildDate>Wed, 29 Apr 2020 13:35:56 +0000</lastBuildDate>
     
-	<atom:link href="https://olivertar.github.io/tags/csp/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olivert.com.ar/tags/csp/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Magento and CSP</title>
-      <link>https://olivertar.github.io/magento-and-csp/</link>
+      <link>https://olivert.com.ar/magento-and-csp/</link>
       <pubDate>Wed, 29 Apr 2020 13:35:56 +0000</pubDate>
       
-      <guid>https://olivertar.github.io/magento-and-csp/</guid>
+      <guid>https://olivert.com.ar/magento-and-csp/</guid>
       <description>CSP, “Content Security Policy” o “Politica de seguridad de contenidos” en español son una serie de reglas que determinan desde que origenes y que tipos de contenidos pueden ser descargados por un cliente web.
 Permiten limitar los ataques XSS (cross-site scripting) y la inyeccion de codigo.
 En terminos practicos se traducen en cabeceras (headers) que se le envian al browser con cada peticion (request).
